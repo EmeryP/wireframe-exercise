@@ -1,0 +1,67 @@
+
+body, html{
+  margin: 0;
+  padding: 0;
+  height: 0;
+
+}
+
+*{
+  box-sizing: border-box;
+}
+
+header, footer{
+  background: #52525252;
+  height: 90px;
+  padding: 10px;
+  width: 100%;
+}
+
+body{
+  margin: 0 auto;
+  }
+  header{
+  width: 100%;
+  background: #ccc;
+  }
+
+  /* div.header{
+    width: 960px;
+    margin: 0 auto;
+  } */
+  .header{
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  header img {
+    float: left;
+  }
+  header nav{
+    float: left;
+    line-height: 70px;
+  }
+
+  header ul li{
+    display: inline-block;
+    padding: 0px 35px;
+  }
+
+
+  
+  /* nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav ul li{
+    display: inline;
+  }
+  
+  .card header{
+    background: #fff;
+    height: 2em;
+  
+  } */
+  
+  
