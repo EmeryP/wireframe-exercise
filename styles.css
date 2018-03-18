@@ -64,7 +64,14 @@ header, footer{
     padding-bottom: 30px;
   }
 
-  
+  #featured{
+    list-style-type: none;
+    max-width: 450px;
+    height: 400px;
+    padding-left: 30px;
+    overflow: scroll;
+  }
+
 
   
   
