@@ -3,7 +3,7 @@ The challenge was to use CSS and HTML to wireframe a design comp.
 
 ### Getting Started
 * Fork and clone this repo to your local machine
-* From your cmd line, run `open index.html` to view the wireframe in the browser
+* From your cmd line, navigate to the root of this directory and run `open index.html` to view the wireframe in the browser
 
 #### Resources
 * http://meyerweb.com/eric/tools/css/reset/ 
