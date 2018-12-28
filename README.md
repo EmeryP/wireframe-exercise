@@ -1,4 +1,4 @@
-# Wireframe-exercise
+# Wireframe-design-comp
 The challenge was to use CSS and HTML to wireframe a design comp.
 
 ### Getting Started
